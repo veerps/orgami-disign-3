@@ -1,0 +1,16 @@
+.Header *{
+    background-color: #0051;
+    margin-left: 40px;
+    padding:20px;
+    border:solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+*{
+    background-color: skyblue;
+}
+
+.footer {
+border:bold;
+}
